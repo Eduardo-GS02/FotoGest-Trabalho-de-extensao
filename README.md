@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README para o projeto FotoGest que você pode usar no GitHub:
-
----
-
 # FotoGest
 
 FotoGest é uma plataforma web desenvolvida para ajudar fotógrafos freelancers a gerenciar entregas e prazos de maneira eficiente. O projeto foi criado como parte de um projeto de extensão universitária na disciplina de Programação Orientada a Objetos em Java.
